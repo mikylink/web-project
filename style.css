@@ -1,0 +1,46 @@
+header p
+{color:#93C1F9;
+font-family: Roboto;
+font-size: 19px;
+font-style: normal;
+font-weight : 00;
+}
+
+p {
+    color:  #CCD2E9;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    
+}
+
+
+.coments{
+    color: #FFF;
+    background: linear-gradient(208deg, #6888C8 9.05%, #5A98F2 76.74%);
+}
+
+ footer{
+    color: #FFF;
+    background: linear-gradient(208deg, #6888C8 9.05%, #5A98F2 76.74%);
+}
+
+a{
+    color: #FFF;
+font-family: Mulish;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+text-decoration: none;
+}
+
+nav a{
+    color: var(--1f1534-hyfen, #1F1534)
+}
+
+.doctor{
+    width: 769px;
+    height: 554px;
+}

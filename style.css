@@ -52,6 +52,25 @@ nav a{
     height: 50px;
 }
 
-div{
-	width: 350px;
-height: 354px;}
+
+header {
+    display: flex;
+height: 100vh;
+margin: 20px 50px ;
+align-items : center;
+}
+
+
+h2 {
+    color: #3C567B;
+    font-size: 48px;
+}
+
+
+.b1 {
+    display: block;
+    height: 74vh;
+    width:200px;
+    background-color: #458FF6 ;
+    border-radius: 100px;
+}
